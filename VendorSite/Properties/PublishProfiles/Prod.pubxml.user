@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>\\csapps\c$\Websites\External\POTracking</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Telerik.Web.UI.dll">
+      <publishTime>06/22/2015 19:41:12</publishTime>
+    </File>
+    <File Include="bin/Telerik.Web.UI.Skins.dll">
+      <publishTime>06/22/2015 19:41:12</publishTime>
+    </File>
+    <File Include="bin/Telerik.Windows.Documents.Core.dll">
+      <publishTime>06/23/2015 19:32:32</publishTime>
+    </File>
+    <File Include="bin/Telerik.Windows.Documents.Flow.dll">
+      <publishTime>06/23/2015 19:32:50</publishTime>
+    </File>
+    <File Include="bin/Telerik.Windows.Documents.Spreadsheet.dll">
+      <publishTime>06/23/2015 19:33:48</publishTime>
+    </File>
+    <File Include="bin/Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll">
+      <publishTime>06/23/2015 19:35:08</publishTime>
+    </File>
+    <File Include="bin/Telerik.Windows.Maths.dll">
+      <publishTime>06/23/2015 19:32:30</publishTime>
+    </File>
+    <File Include="bin/Telerik.Windows.Zip.dll">
+      <publishTime>06/23/2015 19:32:16</publishTime>
+    </File>
+    <File Include="bin/VendorSite.dll">
+      <publishTime>07/25/2015 10:48:33</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>07/25/2015 10:42:46</publishTime>
+    </File>
+    <File Include="HtmlPage2.html">
+      <publishTime>09/22/2014 12:23:43</publishTime>
+    </File>
+    <File Include="POMaster.Master">
+      <publishTime>12/18/2014 08:32:02</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/chadws1.disco">
+      <publishTime>09/16/2014 11:09:36</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/chadws1.wsdl">
+      <publishTime>09/16/2014 11:09:36</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.ArrayOfSpxCustomerAddr.datasource">
+      <publishTime>09/18/2014 08:53:42</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.ArrayOfString.datasource">
+      <publishTime>09/18/2014 08:53:42</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.ArrayOfView_vendor_site_data.datasource">
+      <publishTime>09/18/2014 08:53:42</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.CheckItemsInWarehouseResponse.datasource">
+      <publishTime>09/18/2014 08:53:42</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.EmailList.datasource">
+      <publishTime>09/18/2014 08:53:42</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.GeoCoordinate.datasource">
+      <publishTime>09/18/2014 08:53:42</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.GetAccountNumberByOrderNumberResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.GetAllAccountManagersResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.GetAllActiveCustomersByRegionResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.GetAllActiveCustomersBySalesIdResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.GetAllActiveCustomersResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.GetAllActiveCustomers_startswithResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.GetAllBranchesResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.GetAllCorporateManagersResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.GetAllSalesPeopleResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.GetAllSPCustomerAccountTypesResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.GetAllSpecialOrderPeopleResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.GetCurrentSalesIDResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.GetCustomerAddressesBySalesIDResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.GetCustomerInfoViewDataResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.GetCustomersByManagementCompanyIDResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.GetCustomersBySalesIDResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.GetCustomersByStateResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.GetDefaultPaymentMethodByCustomerIDResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.GetDistanceBetweenAddressesResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.GetEmailAlertListbySystemDepartmentAndLocationResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.GetGeoCoordinateResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.GetNextDocumentNumberResponse.datasource">
+      <publishTime>09/18/2014 08:53:42</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.GetProductInfoResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.GetSalesDocumentViewResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.GetShipToAddressByCustomerIDResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.GetUser2EntByUnpostedPoNumResponse.datasource">
+      <publishTime>09/18/2014 08:53:42</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.GetVendorInfoResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.Get_Magento_General_Group_PricingResponse.datasource">
+      <publishTime>09/18/2014 08:53:42</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.Get_Magento_GroupID_By_Account_NumberResponse.datasource">
+      <publishTime>09/18/2014 08:53:42</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.Get_Magento_Group_Prices_By_ProductResponse.datasource">
+      <publishTime>09/18/2014 08:53:42</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.Get_Magento_ProductsResponse.datasource">
+      <publishTime>09/18/2014 08:53:42</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.Get_SP_UDF_CustomerAddressesByAccountNumResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.InsertSpxSalesDocumentResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.IsOrderInGPResponse.datasource">
+      <publishTime>09/18/2014 08:53:42</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.IsValidEmailResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.MagentoCustomerPricing.datasource">
+      <publishTime>09/18/2014 08:53:42</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.MagentoProductData.datasource">
+      <publishTime>09/18/2014 08:53:42</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.POTracking_GetUnconfirmedPOsByVendorResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.POTracking_GetVendorSiteDataByVendorIDResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.POTracking_InsertVendorTrackingResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.POTracking_VendorConfirmPOResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.Products.datasource">
+      <publishTime>09/18/2014 08:53:42</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.RM00301.datasource">
+      <publishTime>09/18/2014 08:53:42</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.SendEmailWithAttachmentResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.SendExchangeEmaiFromaddressToAddressResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.SendMessageEmailResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.SOP30200.datasource">
+      <publishTime>09/18/2014 08:53:42</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.SOP30300.datasource">
+      <publishTime>09/18/2014 08:53:42</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.spv3SalesDocument.datasource">
+      <publishTime>09/18/2014 08:53:42</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.StateAbbrResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.StateFullNameFromAbbrResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.UnconfirmedPO.datasource">
+      <publishTime>09/18/2014 08:53:42</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.UpdateCustomerAddressLatLongByAddressTypeResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.UpdateOriginalOrderNumberAndTaxAmountResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.UpdateOriginalOrderNumberResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.UpdateRdpSessionListResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.UpdateSpxSalesDocumentResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.View_Customer_Address_Info.datasource">
+      <publishTime>07/10/2014 21:12:36</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.View_Customer_Address_Info1.datasource">
+      <publishTime>09/18/2014 08:53:42</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.View_Customer_Info_Base.datasource">
+      <publishTime>09/18/2014 08:53:42</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.View_Item_Info_Base.datasource">
+      <publishTime>09/18/2014 08:53:42</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.View_Vendor_Info_Base.datasource">
+      <publishTime>09/18/2014 08:53:42</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.Yardi_GetAllOpenYardiInvoicesResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="Service References/ChadWS/VendorSite.ChadWS.Yardi_GetInvoiceDetailBySopNumResponse.datasource">
+      <publishTime>09/18/2014 08:53:43</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>07/25/2015 10:48:34</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+D:\code\PO Tracking\VendorSite\VendorSite\bin\VendorSite.dll
+D:\code\PO Tracking\VendorSite\VendorSite\bin\VendorSite.pdb
+D:\code\PO Tracking\VendorSite\VendorSite\bin\Telerik.Web.UI.dll
+D:\code\PO Tracking\VendorSite\VendorSite\bin\Telerik.Web.UI.Skins.dll
+D:\code\PO Tracking\VendorSite\VendorSite\bin\Telerik.Web.UI.xml
+D:\code\PO Tracking\VendorSite\VendorSite\obj\Debug\VendorSite.dll
+D:\code\PO Tracking\VendorSite\VendorSite\obj\Debug\VendorSite.pdb
+D:\code\PO Tracking\VendorSite\VendorSite\obj\Debug\VendorSite.csprojResolveAssemblyReference.cache

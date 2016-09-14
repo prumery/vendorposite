@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendorSite", "VendorSite\VendorSite.csproj", "{21308E83-490E-4ED2-A46B-82DCAEC784C6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "packages", "packages", "{C0971456-539F-4824-AB75-624AA60742B4}"
+	ProjectSection(SolutionItems) = preProject
+		..\packages\External\ChadWS.WCF.Contracts.dll = ..\packages\External\ChadWS.WCF.Contracts.dll
+		..\packages\External\ChadWS.WCF.DataContracts.dll = ..\packages\External\ChadWS.WCF.DataContracts.dll
+		..\packages\External\Telerik.Web.UI.dll = ..\packages\External\Telerik.Web.UI.dll
+		..\packages\External\Telerik.Web.UI.Skins.dll = ..\packages\External\Telerik.Web.UI.Skins.dll
+		..\packages\External\Telerik.Windows.Documents.Core.dll = ..\packages\External\Telerik.Windows.Documents.Core.dll
+		..\packages\External\Telerik.Windows.Documents.Flow.dll = ..\packages\External\Telerik.Windows.Documents.Flow.dll
+		..\packages\External\Telerik.Windows.Documents.Spreadsheet.dll = ..\packages\External\Telerik.Windows.Documents.Spreadsheet.dll
+		..\packages\External\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll = ..\packages\External\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21308E83-490E-4ED2-A46B-82DCAEC784C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21308E83-490E-4ED2-A46B-82DCAEC784C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21308E83-490E-4ED2-A46B-82DCAEC784C6}.Debug|x86.ActiveCfg = Debug|x86
+		{21308E83-490E-4ED2-A46B-82DCAEC784C6}.Debug|x86.Build.0 = Debug|x86
+		{21308E83-490E-4ED2-A46B-82DCAEC784C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21308E83-490E-4ED2-A46B-82DCAEC784C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21308E83-490E-4ED2-A46B-82DCAEC784C6}.Release|x86.ActiveCfg = Release|x86
+		{21308E83-490E-4ED2-A46B-82DCAEC784C6}.Release|x86.Build.0 = Release|x86
+		{21308E83-490E-4ED2-A46B-82DCAEC784C6}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

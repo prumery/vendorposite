@@ -1,0 +1,73 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="POMaster.master.cs" Inherits="VendorSite.POMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Chadwell Supply Vendor Purchase Order Confirmation Application</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 290px;
+            height: 69px;
+        }
+    </style>
+</head>
+<body>
+      <form id="form1" runat="server">
+    <div class="wrapper" style="padding: 0px; margin: 0px;">
+        <div class="page" style="padding: 0px; margin: 0px;">
+            <div class="header-container" style="padding: 0px; margin: 0px; background: url(http://www.chadwellsupply.com/skin/frontend/default/default/images/bkg_header.png) repeat-x;">
+                <div class="header" style="padding: 0px; margin: 0px auto; font-size: 13px; position: relative; z-index: 3; top: 0px; ">
+                    <div class="my-chadwell-nav" style="padding: 0px; margin: 0px; height: 52px;">
+                        <ul class="container_16" style="padding: 0px; margin: 0px; list-style: none;">
+                            <li class="main-level" style="padding: 0px 5px; margin: 0px; position: relative; z-index: 105; float: left; border: 0px; height: 52px; white-space: nowrap; display: block; background: none !important; font-size: x-large;"><a  style="padding: 0px 15px; margin: 0px; color: rgb(255, 255, 255); text-decoration: none; cursor: pointer; line-height: 52px; display: block;">Chadwell Supply Vendor PO Confirmation</a>&nbsp;</li>
+                        </ul>
+                    </div>
+                    <div  style="padding: 0px; margin: 0px; height: 128px; clear: both;">
+                        <h1 class="logo" style="padding: 0px; margin: 0px; line-height: 1.35; color: rgb(0, 0, 0); font-size: 17px; font-weight: normal; float: left; text-decoration: none !important;"><a class="logo"  style="padding: 0px; margin: 38px 0px 10px 12px; color: rgb(8, 143, 220); text-decoration: none !important; cursor: pointer; float: left;" title="Welcome to Chadwell Supply">
+                            <img alt="Welcome to Chadwell Supply" src="logo.png" style="padding: 0px; margin: 0px; border: 0px; vertical-align: top;" class="auto-style1" /></a></h1>
+                    </div>
+                </div>
+            </div>
+            <div class="main-container col1-layout" >
+                <div style="padding: 0px; margin: 0px auto; min-height: 400px; text-align: left;">
+                    <div class="col-main-home" style="padding: 0px; margin: 0px; float: none; width: auto;">
+                        <div class="std" style="padding: 0px; margin: 0px;">
+                            <div class="body_contain" style="padding: 0px; margin: 8px 0px; width: auto; height: auto; float: left; font-size:130%">
+                                   <asp:ContentPlaceHolder ID="mainContent" runat="server">
+        
+        </asp:ContentPlaceHolder>
+
+
+                            </div>
+                            <p style="padding: 5px 0px; margin: 0px;">
+                            </p>
+                            <p style="padding: 5px 0px; margin: 0px;">
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-container" style="padding: 15px 0px 0px; margin: 50px 0px 0px; width: 100%; float: left; height: 77px; background: rgb(0, 0, 0);">
+        <div class="footer" style="padding: 0px; margin: 0px auto; ">
+            <div class="footer_left_text" style="padding: 0px; margin: 0px 0px 0px -10px;  height: auto; float: left;">
+                <%--<ul style="padding: 0px 0px 2px; margin: 0px; list-style: none; width: 720px; height: auto; float: right;">
+                    <li style="padding: 0px 17px; margin: 8px 0px 0px; width: auto; height: auto; float: left; font-family: Arial; font-size: 12px; font-weight: normal; color: rgb(125, 125, 125); line-height: 11px; text-decoration: none; border-right-width: 1px; border-right-style: solid; border-right-color: rgb(125, 125, 125);"><a href="http://www.chadwellsupply.com/" style="padding: 0px; margin: 0px; color: rgb(159, 159, 159); text-decoration: none; cursor: pointer;">Home</a></li>
+                    <li style="padding: 0px 17px; margin: 8px 0px 0px; width: auto; height: auto; float: left; font-family: Arial; font-size: 12px; font-weight: normal; color: rgb(125, 125, 125); line-height: 11px; text-decoration: none; border-right-width: 1px; border-right-style: solid; border-right-color: rgb(125, 125, 125);"><a href="http://www.chadwellsupply.com/contact-us" style="padding: 0px; margin: 0px; color: rgb(159, 159, 159); text-decoration: none; cursor: pointer;">Contact us</a></li>
+                    <li class="last" style="padding: 0px 17px; margin: 8px 0px 0px; width: auto; height: auto; float: left; font-family: Arial; font-size: 12px; font-weight: normal; color: rgb(125, 125, 125); line-height: 11px; text-decoration: none; border: 0px;"><a href="http://www.chadwellsupply.com/faq" style="padding: 0px; margin: 0px; color: rgb(159, 159, 159); text-decoration: none; cursor: pointer;">FAQ</a></li>
+                </ul>--%>
+                <ul style="padding: 0px 0px 2px; margin: 0px; list-style: none; width: 720px; height: auto; float: right;">
+                    <ul style="padding: 0px 0px 2px; margin: 0px; list-style: none; width: 720px; height: auto; float: right;">
+                        <li class="last" style="padding: 0px 17px; margin: 8px 0px 0px; width: auto; height: auto; float: left; font-family: Arial; font-size: 12px; font-weight: normal; color: rgb(125, 125, 125); line-height: 11px; text-decoration: none; border: 0px;">© Copyright <script>document.write(new Date().getFullYear());</script> Chadwell Supply</li>
+                    </ul>
+                </ul>
+            </div>
+        </div>
+    </div>
+   </form>
+</body>
+</html>
